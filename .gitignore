@@ -1,0 +1,39 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.dll
+*.exe
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Visual Studio Code settings
+.vscode/
+
+# ASP.NET temporary files
+*.dbmdl
+*.log
+*.pdb
+*.cache
+*.mdb
+
+# Others
+*.swp
+*.DS_Store
+Thumbs.db
+*.orig
+
+# Environment variables
+.env
